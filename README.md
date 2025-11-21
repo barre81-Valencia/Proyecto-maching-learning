@@ -1,4 +1,4 @@
-# 🍷 Clasificación de Calidad de Vino (Blanco y Tinto) - Proyecto Final de Machine Learning
+# 🍷 Clasificación de Calidad de Vino (Blanco y Tinto) - Proyecto de Machine Learning
 
 ## 🎯 Objetivo del Proyecto
 
@@ -16,7 +16,7 @@ El proyecto se divide en tres componentes principales:
 
 ## 🏆 Modelo Seleccionado: AdaBoost Regressor Optimizado
 
-Tras una evaluación exhaustiva de modelos (incluyendo Random Forest y XGBoost), se seleccionó una versión optimizada del **AdaBoost Regressor** por su equilibrio superior entre precisión general y capacidad de predecir correctamente la clase minoritaria (**Malo**).
+Tras una evaluación exhaustiva de modelos, se seleccionó una versión optimizada del **AdaBoost Regressor** por su equilibrio superior entre precisión general y capacidad de predecir correctamente la clase minoritaria (**Malo**).
 
 ### Métricas Clave
 
