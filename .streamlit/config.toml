@@ -1,0 +1,11 @@
+[theme]
+# Puedes usar 'dark' o 'light' para temas predefinidos
+base="dark" 
+# Color de fondo (el espacio en blanco)
+backgroundColor="#0e1117" 
+# Color del contenido (donde están tus widgets)
+secondaryBackgroundColor="#262730" 
+# Color del texto principal
+textColor="#fafafa" 
+# Color primario de los botones y acentos (un verde botella que queda bien)
+primaryColor="#389e63"
